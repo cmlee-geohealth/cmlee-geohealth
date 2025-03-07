@@ -1,9 +1,9 @@
 # 🗺 Welcome to My GitHub! 👋
 ### Hi, I'm Chanmi Lee 
 
-I'm an **MS Public Health Data Science student** with a **previous MS in Geography** and a strong foundation in **statistical modeling and geospatial analysis**. My work focuses on using **primary tools such as R, Python, and GIS** to analyze spatial patterns in public health, address health disparities, and improve decision-making.
+I'm an **MS Public Health Data Science student** with a **previous MS in Geography** and a strong foundation in **statistical modeling and geospatial analysis**.
 
-I am currently **seeking an internship** at the intersection of **GIS and public health**, where I can apply my expertise in **spatial epidemiology, statistical modeling, and machine learning** to real-world public health challenges.
+I am currently **seeking an internship** at the intersection of **GIS and public health**
 
 ---
 
