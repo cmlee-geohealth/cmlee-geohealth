@@ -18,8 +18,11 @@ I am currently **seeking an internship** at the intersection of **GIS and public
 
 ## 💻 Technical Skills
 🖥 **Programming:** R, Python
+
 📌 **Geospatial Tools:** ArcGIS Pro, QGIS, GeoDa
+
 📈 **Statistical Modeling:** GEE, Spatial Regression, SEM  
+
 🛰 **Remote Sensing:** Google Earth Engine, ENVI, ERDAS
 
 ---
