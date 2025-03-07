@@ -45,6 +45,6 @@ I am currently **seeking an internship** at the intersection of **GIS and public
 ---
 
 ### 📌 Fun Fact About Me
-In addition to my passion for geospatial health research, I am also a **pianist at my church**, where I play for the **praise team, service, and choir** 🎹🎶
+In addition to my passion for geospatial health research, I am also a **pianist at my church**, where I play for the **praise team, service, and choir** 🎹🎼
 
 
