@@ -21,6 +21,7 @@ I am currently **seeking an internship** at the intersection of **GIS and public
 - **Geospatial Tools:** ArcGIS Pro, QGIS, GeoDa
 - **Statistical Modeling:** GEE, Spatial Regression, SEM  
 - **Remote Sensing:** Google Earth Engine, ENVI, ERDAS
+
 ![R_logo](https://github.com/user-attachments/assets/88b6f1c3-2692-416f-a0d0-6332aee14a28) ![Python-logo-notext](https://github.com/user-attachments/assets/8ed1f141-bf9e-47ff-b736-c116e0430d0d) ![Screen-Shot-2022-07-11-at-10 02 12-AM](https://github.com/user-attachments/assets/0ec5dabb-b5dc-41fa-8ae3-bda9060fdb9e)
 
 
