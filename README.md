@@ -8,19 +8,19 @@ I am currently **seeking an internship** at the intersection of **GIS and public
 
 ## 📌 Education
 
-MS Public Health Data Science (Expected Fall 2025)
-MS Geography
-Geospatial Data Science Certificate
-GIS Technology Certificate
+- MS Public Health Data Science (Expected Fall 2025)
+- MS Geography
+- Geospatial Data Science Certificate
+- GIS Technology Certificate
 
 ---
 
 ## 📌 Areas of Interest
-- **Geospatial Analysis & Spatial Epidemiology**  🗺
-- **Machine Learning for Public Health**  
-- **Social Determinants of Health (SDOH) & Health Disparities**  
-- **Remote Sensing & Environmental Health**  
-- **Urban Health & Neighborhood Effects**  
+- Geospatial Analysis & Spatial Epidemiology  🗺
+- Machine Learning for Public Health 
+- Social Determinants of Health (SDOH) & Health Disparities
+- Remote Sensing & Environmental Health
+- Urban Health & Neighborhood Effects 
 
 ---
 
