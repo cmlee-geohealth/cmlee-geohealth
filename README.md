@@ -45,13 +45,12 @@ I am currently **seeking an internship** at the intersection of GIS and public h
 ---
 
 ## 📌 Connect With Me
-**Email:** cmlee@temple.edu 
-
-**LinkedIn:** www.linkedin.com/in/cmlee-geohealth
+- **Email:** cmlee@temple.edu 
+- **LinkedIn:** www.linkedin.com/in/cmlee-geohealth
 
 ---
 
 ### 📌 Fun Fact About Me
-In addition to my passion for geospatial health research, I am also a **pianist at my church**, where I play for the **praise team, service, and choir** 🎹
+In addition to my passion for geospatial health research, I am also a pianist at my church, where I play for the praise team, service, and choir 🎹
 
 
