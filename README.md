@@ -37,12 +37,6 @@ I am currently **seeking an internship** at the intersection of GIS and public h
 
 ---
 
-### 📌 Current Coursework (Spring 2025)
-- Structural Equation Modeling  
-- Missing Data Analysis 
-
----
-
 ### 📌 Connect With Me
 - **Email:** cmlee@temple.edu 
 - **LinkedIn:** www.linkedin.com/in/cmlee-geohealth
