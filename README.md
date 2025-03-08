@@ -2,7 +2,7 @@
 ### Hi, I'm Chanmi Lee 
 
 I specialize in geospatial analysis and statistical modeling, leveraging data-driven approaches to explore public health and environmental challenges.
-I am currently **seeking an internship** at the intersection of **GIS and public health**
+I am currently **seeking an internship** at the intersection of GIS and public health
 
 ---
 
