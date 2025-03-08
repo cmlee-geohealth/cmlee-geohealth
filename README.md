@@ -21,8 +21,9 @@ I am currently **seeking an internship** at the intersection of **GIS and public
 - **Geospatial Tools:** ArcGIS Pro, QGIS, GeoDa
 - **Statistical Modeling:** GEE, Spatial Regression, SEM  
 - **Remote Sensing:** Google Earth Engine, ENVI, ERDAS
+![R_logo](https://github.com/user-attachments/assets/88b6f1c3-2692-416f-a0d0-6332aee14a28) ![Python-logo-notext](https://github.com/user-attachments/assets/8ed1f141-bf9e-47ff-b736-c116e0430d0d) ![Screen-Shot-2022-07-11-at-10 02 12-AM](https://github.com/user-attachments/assets/0ec5dabb-b5dc-41fa-8ae3-bda9060fdb9e)
 
-![R_logo](https://github.com/user-attachments/assets/a7a570d8-dcad-4bc5-812d-9cfda841303e) ![Python-logo-notext](https://github.com/user-attachments/assets/09ff88e0-1538-4c71-a906-e3d65d675fd1) ![Screen-Shot-2022-07-11-at-10 02 12-AM](https://github.com/user-attachments/assets/7c4e233e-a885-4c9d-8c25-aec8d9bc60dd)
+
 
 ## 📌 Featured Projects
 🔹 **[COVID-19 Lockdown & Obesity: GEE Modeling](https://github.com/geohealth/covid_obesity_GEE)**  
