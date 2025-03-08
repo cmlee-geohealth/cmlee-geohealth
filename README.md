@@ -24,7 +24,7 @@ I am currently **seeking an internship** at the intersection of GIS and public h
 
 ---
 ### 📌 Featured Projects
--🔹 [COVID-19 Lockdown & Obesity: GEE Modeling](https://github.com/cmlee-geohealth/covid_obesity_GEE) 
+-🔹 [COVID-19 Lockdown & Obesity: GEE Modeling](https://github.com/cmlee-geohealth/covid_obesity_GEE)
 -🔹 [Spatial Analysis of John Snow’s Cholera Outbreak Using PySAL](https://github.com/cmlee-geohealth/pysal_snow_cholera)
 -🔹 [Obesity & Social Determinants of Health in Pennsylvania](https://github.com/cmlee-geohealth/obesity_SDOH_PA)
  
