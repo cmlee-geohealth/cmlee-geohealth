@@ -9,9 +9,6 @@ I am currently **seeking an internship** at the intersection of GIS and public h
 - Geospatial Analysis & Spatial Epidemiology  🗺
 - Urban Health & Neighborhood Effects 
 - Social Determinants of Health (SDOH) & Health Disparities
-- Machine Learning for Public Health
-- Remote Sensing & Environmental Health
-
 
 ---
 ### 📌 Technical Skills
